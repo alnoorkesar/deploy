@@ -1,0 +1,49 @@
+{
+    "siteName": "Al-Noor Kesar",
+    "tagline": "Premium Kashmiri Saffron & Dry Fruits",
+    "logo": {
+        "main": "/logo.png",
+        "alt": "Al-Noor Kesar Logo",
+        "width": 150,
+        "height": 60
+    },
+    "branding": {
+        "primaryColor": "#D97706",
+        "secondaryColor": "#4C1D95",
+        "accentColor": "#FFF8F0"
+    },
+    "seo": {
+        "title": "Al-Noor Kesar | Premium Kashmiri Saffron & Dry Fruits",
+        "description": "Experience the authentic taste of Kashmir. Premium quality saffron, wild mushrooms, and Himalayan treasures harvested with care and delivered with love.",
+        "keywords": [
+            "Kashmiri Saffron",
+            "Kesar",
+            "Dry Fruits",
+            "Premium Spices",
+            "Kashmir",
+            "Organic",
+            "Pampore"
+        ]
+    },
+    "contact": {
+        "address": {
+            "line1": "LETHAPORA, NH 44",
+            "line2": "Opp. C.R.P.F. CAMP Pampore, Kashmir - 192122"
+        },
+        "phone": "+91 96974 99557/+91 94190 33761",
+        "email": "alnoorkesar@yahoo.com",
+        "businessHours": {
+            "weekdays": "Mon - Sat: 9:00 AM - 7:00 PM",
+            "weekends": "Sunday: 10:00 AM - 4:00 PM"
+        }
+    },
+    "social": {
+        "instagram": "https://instagram.com/alnoorkesar",
+        "facebook": "https://facebook.com/alnoorkesar",
+        "whatsapp": "https://wa.me/919697499557"
+    },
+    "shipping": {
+        "freeShippingThreshold": 999,
+        "deliveryTime": "3-5 business days"
+    }
+}

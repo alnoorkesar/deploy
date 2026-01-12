@@ -1,0 +1,66 @@
+{
+    "products": [
+        {
+            "id": "kashmiri-kesar-1g",
+            "name": "Kashmiri Kesar",
+            "weight": "1 gram",
+            "price": 599,
+            "discountPrice": 500,
+            "image": "/products/kesar 1gm.png",
+            "description": "Premium Grade A saffron from Pampore. Intense aroma and deep red color.",
+            "category": "Saffron",
+            "badge": "Best Seller",
+            "rating": 4.9,
+            "reviews": 128,
+            "inStock": true
+        },
+        {
+            "id": "kesar-kahwa",
+            "name": "Kesar Kahwa",
+            "weight": "100 grams",
+            "price": 1200,
+            "discountPrice": 600,
+            "image": "/products/Kesar Kahwa.png",
+            "description": "Traditional Kashmiri green tea blend with saffron, almonds, and aromatic spices.",
+            "category": "Tea",
+            "badge": null,
+            "rating": 4.8,
+            "reviews": 89,
+            "inStock": true
+        },
+        {
+            "id": "saffron-oil",
+            "name": "Saffron Oil",
+            "weight": "50 ml",
+            "price": 1800,
+            "discountPrice": 1200,
+            "image": "/products/Saffron Oil.png",
+            "description": "Pure saffron-infused oil for skin care and aromatherapy.",
+            "category": "Wellness",
+            "badge": "Premium",
+            "rating": 4.7,
+            "reviews": 45,
+            "inStock": true
+        },
+        {
+            "id": "himalayan-shilajit-250g",
+            "name": "Himalayan Shilajit",
+            "weight": "250 grams",
+            "price": 8500,
+            "discountPrice": 6000,
+            "image": "/products/shilajit 250gm.png",
+            "description": "Pure resin form. Sourced from high-altitude Himalayan ranges. 100% authentic.",
+            "category": "Wellness",
+            "badge": "Authentic",
+            "rating": 4.9,
+            "reviews": 64,
+            "inStock": true
+        }
+    ],
+    "categories": [
+        "All",
+        "Saffron",
+        "Tea",
+        "Wellness"
+    ]
+}

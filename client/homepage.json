@@ -1,0 +1,129 @@
+{
+    "heroSlides": [
+        {
+            "id": 1,
+            "image": "/hero/slide-1.jpg",
+            "title": "The Gold of Kashmir",
+            "subtitle": "Premium Saffron from the Heart of Pampore",
+            "description": "Discover the world's finest saffron, handpicked from the valleys of Kashmir"
+        },
+        {
+            "id": 2,
+            "image": "/hero/slide-2.jpg",
+            "title": "Harvested by Young Thoughtful Minds",
+            "subtitle": "Supporting Local Communities",
+            "description": "Every strand tells a story of dedication and pure craftsmanship"
+        },
+        {
+            "id": 3,
+            "image": "/hero/slide-3.jpg",
+            "title": "Pure. Authentic. Premium.",
+            "subtitle": "From Our Fields to Your Table",
+            "description": "Experience the true essence of Kashmiri flavors"
+        }
+    ],
+    "parallaxSection": {
+        "backgroundImage": "/parallax/farm-background.jpg",
+        "title": "From Our Farm to Your Table",
+        "subtitle": "The Journey of Excellence",
+        "description": "Every product we offer is carefully sourced from the pristine valleys of Kashmir, ensuring authenticity and premium quality.",
+        "stats": [
+            {
+                "value": "100%",
+                "label": "Pure & Authentic"
+            },
+            {
+                "value": "10+",
+                "label": "Years of Excellence"
+            },
+            {
+                "value": "5000+",
+                "label": "Happy Customers"
+            },
+            {
+                "value": "50+",
+                "label": "Partner Farmers"
+            }
+        ]
+    },
+    "reviewsMarquee": [
+        {
+            "id": 1,
+            "name": "Priya Sharma",
+            "location": "Mumbai",
+            "rating": 5,
+            "review": "The saffron quality is exceptional! Best I've ever used.",
+            "avatar": "/reviews/avatar-1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Rahul Verma",
+            "location": "Delhi",
+            "rating": 5,
+            "review": "Authentic Kashmiri products at reasonable prices. Highly recommended!",
+            "avatar": "/reviews/avatar-2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Anjali Patel",
+            "location": "Bangalore",
+            "rating": 5,
+            "review": "The aroma of the saffron is incredible. Will order again!",
+            "avatar": "/reviews/avatar-3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Mohammed Ali",
+            "location": "Hyderabad",
+            "rating": 5,
+            "review": "Gift box was beautifully packaged. Perfect for festivals!",
+            "avatar": "/reviews/avatar-4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Sneha Rao",
+            "location": "Chennai",
+            "rating": 5,
+            "review": "Fast delivery and excellent quality. Very satisfied!",
+            "avatar": "/reviews/avatar-5.jpg"
+        }
+    ],
+    "footer": {
+        "description": "Premium Kashmiri Saffron and Dry Fruits. Bringing the authentic taste of Kashmir to your doorstep.",
+        "quickLinks": [
+            {
+                "label": "Home",
+                "href": "/"
+            },
+            {
+                "label": "Shop",
+                "href": "/shop"
+            },
+            {
+                "label": "About",
+                "href": "/about"
+            },
+            {
+                "label": "Contact",
+                "href": "/contact"
+            }
+        ],
+        "products": [
+            "Kashmiri Saffron",
+            "Wild Mushrooms",
+            "Himalayan Shilajit",
+            "Dry Fruits"
+        ],
+        "contact": {
+            "address": "LETHAPORA, NH 44,Opp. C.R.P.F. CAMP Pampore, Kashmir",
+            "phone": "+91 96974 99557/+91 94190 33761",
+            "email": "alnoorkesar@yahoo.com"
+        },
+        "socialLinks": {
+            "instagram": "https://instagram.com/alnoorkesar",
+            "facebook": "https://facebook.com/alnoorkesar",
+            "whatsapp": "https://wa.me/919697499557"
+        },
+        "copyright": "© 2024 Al-Noor Kesar. All rights reserved."
+    }
+}
