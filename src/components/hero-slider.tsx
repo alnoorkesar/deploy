@@ -186,14 +186,14 @@ export default function HeroSlider() {
             <div className="absolute left-4 right-4 top-1/2 -translate-y-1/2 flex justify-between pointer-events-none z-10">
                 <button
                     onClick={prevSlide}
-                    className="pointer-events-auto p-3 rounded-full bg-white/10 hover:bg-white/20 backdrop-blur-sm text-white transition-all duration-300 hover:scale-110"
+                    className="pointer-events-auto p-2 md:p-3 rounded-full bg-white/10 hover:bg-white/20 backdrop-blur-sm text-white transition-all duration-300 hover:scale-110 opacity-30 md:opacity-100 hover:opacity-100"
                     aria-label="Previous slide"
                 >
                     <ChevronLeft className="w-6 h-6" />
                 </button>
                 <button
                     onClick={nextSlide}
-                    className="pointer-events-auto p-3 rounded-full bg-white/10 hover:bg-white/20 backdrop-blur-sm text-white transition-all duration-300 hover:scale-110"
+                    className="pointer-events-auto p-2 md:p-3 rounded-full bg-white/10 hover:bg-white/20 backdrop-blur-sm text-white transition-all duration-300 hover:scale-110 opacity-30 md:opacity-100 hover:opacity-100"
                     aria-label="Next slide"
                 >
                     <ChevronRight className="w-6 h-6" />
