@@ -111,8 +111,8 @@ export default function HeroSlider() {
                     </div>
 
                     {/* Gradient Overlay */}
-                    <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/40 to-transparent" />
-                    <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
+                    <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/50 to-transparent" />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
 
                     {/* Content */}
                     <div className="relative h-full flex items-center">
@@ -151,7 +151,7 @@ export default function HeroSlider() {
                                     initial={{ opacity: 0, y: 20 }}
                                     animate={{ opacity: 1, y: 0 }}
                                     transition={{ delay: 0.7 }}
-                                    className="text-white/80 text-lg sm:text-xl mb-8 max-w-lg"
+                                    className="text-white text-lg sm:text-xl mb-8 max-w-lg"
                                 >
                                     {slides[currentSlide].description}
                                 </motion.p>

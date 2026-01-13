@@ -135,13 +135,13 @@ function ProductCard({ product, index }: ProductCardProps) {
                         </span>
                     )}
 
-                    {/* Quick Add */}
-                    <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end justify-center pb-4">
+                    {/* Quick Add - Always visible on mobile, hover on desktop */}
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-300 flex items-end justify-center pb-4">
                         <Button
                             variant="primary"
                             size="sm"
                             onClick={handleAddToCart}
-                            className="transform translate-y-4 group-hover:translate-y-0 transition-transform duration-300"
+                            className="transform md:translate-y-4 md:group-hover:translate-y-0 transition-transform duration-300"
                         >
                             <ShoppingCart className="w-4 h-4" />
                             Add to Cart
