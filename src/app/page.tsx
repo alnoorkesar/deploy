@@ -132,10 +132,10 @@ export default function Home() {
                 <li className="flex items-center gap-3">
                   <Mail className="w-5 h-5 text-[#D97706] flex-shrink-0" />
                   <a
-                    href="mailto:alnoorkesar@yahoo.com,contact@alnoorkesar.in"
+                    href="mailto:alnoorkesar@gmail.com"
                     className="text-white/70 hover:text-[#D97706] transition-colors duration-300 text-sm"
                   >
-                    alnoorkesar@yahoo.com,contact@alnoorkesar.in
+                    alnoorkesar@gmail.com
                   </a>
                 </li>
               </ul>

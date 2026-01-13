@@ -199,10 +199,10 @@ ${formData.message}`;
                                     <div>
                                         <p className="font-medium text-[#1F2937]">Email</p>
                                         <a
-                                            href="mailto:alnoorkesar@yahoo.com,contact@alnoorkesar.in"
+                                            href="mailto:alnoorkesar@gmail.com"
                                             className="text-[#374151] hover:text-[#D97706] transition-colors"
                                         >
-                                            alnoorkesar@yahoo.com,contact@alnoorkesar.in
+                                            alnoorkesar@gmail.com
                                         </a>
                                     </div>
                                 </div>
