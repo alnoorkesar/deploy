@@ -33,17 +33,7 @@ const team = [
         name: 'Shabir',
         role: 'Founder',
         image: '',
-    },
-    {
-        name: 'Ishfaq',
-        role: 'Offline support',
-        image: '',
-    },
-    {
-        name: 'Vishal',
-        role: 'Online support',
-        image: '',
-    },
+    }
 ];
 
 export default function AboutPage() {
