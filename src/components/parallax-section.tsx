@@ -7,7 +7,7 @@ import Image from 'next/image';
 const sections = [
     {
         id: 1,
-        image: '/journey/fields.png',
+        image: '/journey/fields.jpg',
         title: 'Our Fields',
         description: 'Nestled in the pristine valleys of Pampore, our saffron fields stretch across the Karewa highlands, blessed by the pure Himalayan air.',
         stats: 'Large Fields',
@@ -21,7 +21,7 @@ const sections = [
     },
     {
         id: 3,
-        image: '/journey/processing.png',
+        image: '/journey/processing.jpg',
         title: 'Processing',
         description: 'Dried traditionally over low heat, our saffron retains its potent aroma, vibrant color, and therapeutic properties.',
         stats: '100% Pure',

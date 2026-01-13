@@ -125,7 +125,7 @@ ${formData.message}`;
                                 label="Phone Number"
                                 name="phone"
                                 type="tel"
-                                placeholder="+91 96974 99557/+91 94190 33761"
+                                placeholder="Enter your mobile number"
                                 value={formData.phone}
                                 onChange={handleChange}
                                 required

@@ -50,7 +50,7 @@ export default function Navbar() {
                 className={`
           fixed top-0 left-0 right-0 z-50
           transition-all duration-300
-          bg-[#F4B41A] backdrop-blur-md
+          bg-[#f0b832] backdrop-blur-md
           ${isScrolled
                         ? 'py-2 shadow-lg'
                         : 'py-2'
@@ -69,7 +69,7 @@ export default function Navbar() {
                                     alt="Al-Noor Kesar"
                                     width={280}
                                     height={116}
-                                    className="h-16 md:h-12 lg:h-14 w-auto"
+                                    className="h-10 w-32 md:h-14 md:w-44 lg:h-16 lg:w-52 object-contain"
                                     priority
                                 />
                             </motion.div>

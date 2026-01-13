@@ -2,28 +2,28 @@
     "heroSlides": [
         {
             "id": 1,
-            "image": "/hero/slide-1.jpg",
+            "image": "/hero/slide1.jpg",
             "title": "The Gold of Kashmir",
             "subtitle": "Premium Saffron from the Heart of Pampore",
             "description": "Discover the world's finest saffron, handpicked from the valleys of Kashmir"
         },
         {
             "id": 2,
-            "image": "/hero/slide-2.jpg",
+            "image": "/hero/slide2.jpg",
             "title": "Harvested by Young Thoughtful Minds",
             "subtitle": "Supporting Local Communities",
             "description": "Every strand tells a story of dedication and pure craftsmanship"
         },
         {
             "id": 3,
-            "image": "/hero/slide-3.jpg",
+            "image": "/hero/slide3.mp4",
             "title": "Pure. Authentic. Premium.",
             "subtitle": "From Our Fields to Your Table",
             "description": "Experience the true essence of Kashmiri flavors"
         }
     ],
     "parallaxSection": {
-        "backgroundImage": "/parallax/farm-background.jpg",
+        "backgroundImage": "/journey/fields.jpg",
         "title": "From Our Farm to Your Table",
         "subtitle": "The Journey of Excellence",
         "description": "Every product we offer is carefully sourced from the pristine valleys of Kashmir, ensuring authenticity and premium quality.",

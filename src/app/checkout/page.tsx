@@ -157,13 +157,13 @@ ${selectedPayment === 'upi' ? 'UPI Payment (Will share screenshot)' : selectedPa
                     Checkout
                 </motion.h1>
 
-                <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-                    {/* Left Column - Shipping Details */}
+                <div className="flex flex-col-reverse lg:grid lg:grid-cols-2 gap-8">
+                    {/* Shipping Details - Right on Desktop, Bottom on Mobile */}
                     <motion.div
                         initial={{ opacity: 0, x: -20 }}
                         animate={{ opacity: 1, x: 0 }}
                         transition={{ delay: 0.1 }}
-                        className="bg-white rounded-xl p-6 md:p-8 shadow-lg"
+                        className="bg-white rounded-xl p-6 md:p-8 shadow-lg lg:order-2"
                     >
                         <h2 className="text-2xl font-bold text-[#1F2937] mb-6 flex items-center gap-2">
                             <MapPin className="w-6 h-6 text-[#D97706]" />
@@ -315,8 +315,8 @@ ${selectedPayment === 'upi' ? 'UPI Payment (Will share screenshot)' : selectedPa
                         </form>
                     </motion.div>
 
-                    {/* Right Column - Order Summary & Payment */}
-                    <div className="space-y-6">
+                    {/* Order Summary & Payment - Left on Desktop, Top on Mobile */}
+                    <div className="space-y-6 lg:order-1">
                         {/* Order Summary */}
                         <motion.div
                             initial={{ opacity: 0, x: 20 }}

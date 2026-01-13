@@ -22,6 +22,10 @@ export const metadata: Metadata = {
   description: "Experience the authentic taste of Kashmir. Premium quality saffron, wild mushrooms, and Himalayan treasures harvested with care and delivered with love.",
   keywords: ["Kashmiri Saffron", "Kesar", "Dry Fruits", "Premium Spices", "Kashmir", "Organic", "Pampore"],
   authors: [{ name: "Al-Noor Kesar" }],
+  icons: {
+    icon: '/logo.png',
+    apple: '/logo.png',
+  },
   openGraph: {
     title: "Al-Noor Kesar | Premium Kashmiri Saffron",
     description: "The Gold of Kashmir - Harvested by Young Thoughtful Minds",

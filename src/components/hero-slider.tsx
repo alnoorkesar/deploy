@@ -7,7 +7,7 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 const slides = [
     {
         id: 1,
-        image: '/hero/slide1.png',
+        image: '/hero/slide1.jpg',
         isVideo: false,
         title: 'The Gold of Kashmir',
         subtitle: 'Premium Saffron from the Heart of Pampore',
@@ -16,7 +16,7 @@ const slides = [
     },
     {
         id: 2,
-        image: '/hero/slide2.png',
+        image: '/hero/slide2.jpg',
         isVideo: false,
         title: 'Harvested by Young Thoughtful Minds',
         subtitle: 'Supporting Local Communities',
