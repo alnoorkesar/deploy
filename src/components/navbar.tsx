@@ -65,7 +65,7 @@ export default function Navbar() {
                                 className="relative"
                             >
                                 <Image
-                                    src="/menulogo1.png"
+                                    src="/menulogo1.jpg"
                                     alt="Al-Noor Kesar"
                                     width={280}
                                     height={116}
