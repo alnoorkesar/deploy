@@ -15,6 +15,20 @@
             "inStock": true
         },
         {
+            "id": "kashmiri-kesar-10g",
+            "name": "Kashmiri Kesar",
+            "weight": "10 grams",
+            "price": 5000,
+            "discountPrice": 4200,
+            "image": "/products/kesar10gms.jpg",
+            "description": "Premium Grade A saffron from Pampore. Bulk pack for regular users. Intense aroma and deep red color.",
+            "category": "Saffron",
+            "badge": "Premium",
+            "rating": 4.9,
+            "reviews": 28,
+            "inStock": true
+        },
+        {
             "id": "kesar-kahwa",
             "name": "Kesar Kahwa",
             "weight": "100 grams",
@@ -26,6 +40,20 @@
             "badge": null,
             "rating": 4.8,
             "reviews": 89,
+            "inStock": true
+        },
+        {
+            "id": "saffron-shahi-kahwa",
+            "name": "Saffron Shahi Kahwa Mix",
+            "weight": "100 grams",
+            "price": 800,
+            "discountPrice": 650,
+            "image": "/products/Saffron shahi kahwa mix.jpg",
+            "description": "Royal blend of Kashmiri green tea with premium saffron, cardamom, and cinnamon.",
+            "category": "Tea",
+            "badge": null,
+            "rating": 4.7,
+            "reviews": 52,
             "inStock": true
         },
         {
@@ -43,6 +71,20 @@
             "inStock": true
         },
         {
+            "id": "almond-oil",
+            "name": "Almond Oil",
+            "weight": "100 ml",
+            "price": 600,
+            "discountPrice": 500,
+            "image": "/products/almondoil.jpg",
+            "description": "Cold-pressed pure almond oil for hair and skin care. Rich in Vitamin E.",
+            "category": "Wellness",
+            "badge": "Premium",
+            "rating": 4.6,
+            "reviews": 38,
+            "inStock": true
+        },
+        {
             "id": "himalayan-shilajit-250g",
             "name": "Himalayan Shilajit",
             "weight": "250 grams",
@@ -55,12 +97,84 @@
             "rating": 4.9,
             "reviews": 64,
             "inStock": true
+        },
+        {
+            "id": "saffron-honey",
+            "name": "Saffron Honey",
+            "weight": "250 grams",
+            "price": 800,
+            "discountPrice": 650,
+            "image": "/products/saffron honey.jpg",
+            "description": "Pure honey infused with authentic Kashmiri saffron. Natural sweetness with saffron benefits.",
+            "category": "Wellness",
+            "badge": "Authentic",
+            "rating": 4.8,
+            "reviews": 41,
+            "inStock": true
+        },
+        {
+            "id": "kashmiri-almonds",
+            "name": "Kashmiri Almonds",
+            "weight": "500 grams",
+            "price": 1000,
+            "discountPrice": 900,
+            "image": "/products/Almonds.jpg",
+            "description": "Premium Kashmiri Mamra almonds. Rich in nutrients and superior quality.",
+            "category": "Dry Fruits",
+            "badge": "Best Seller",
+            "rating": 4.8,
+            "reviews": 76,
+            "inStock": true
+        },
+        {
+            "id": "saffron-cream",
+            "name": "Kashmiri Saffron Cream",
+            "weight": "50 grams",
+            "price": 500,
+            "discountPrice": 400,
+            "image": "/products/kashmiri saffron cream.jpg",
+            "description": "Premium face cream enriched with pure Kashmiri saffron for radiant skin.",
+            "category": "Beauty",
+            "badge": null,
+            "rating": 4.6,
+            "reviews": 33,
+            "inStock": true
+        },
+        {
+            "id": "kesar-facewash",
+            "name": "Kesar Face Wash",
+            "weight": "100 ml",
+            "price": 350,
+            "discountPrice": 280,
+            "image": "/products/kesarfacewash.jpg",
+            "description": "Gentle face wash with saffron extracts for clear and glowing skin.",
+            "category": "Beauty",
+            "badge": null,
+            "rating": 4.5,
+            "reviews": 29,
+            "inStock": true
+        },
+        {
+            "id": "rose-water",
+            "name": "Rose Water",
+            "weight": "200 ml",
+            "price": 250,
+            "discountPrice": 200,
+            "image": "/products/rose water.jpg",
+            "description": "Pure Kashmiri rose water for skin toning and refreshment. 100% natural.",
+            "category": "Beauty",
+            "badge": null,
+            "rating": 4.7,
+            "reviews": 55,
+            "inStock": true
         }
     ],
     "categories": [
         "All",
         "Saffron",
         "Tea",
-        "Wellness"
+        "Wellness",
+        "Dry Fruits",
+        "Beauty"
     ]
 }
