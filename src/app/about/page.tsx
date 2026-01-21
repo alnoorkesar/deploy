@@ -201,6 +201,45 @@ export default function AboutPage() {
                     </motion.div>
                 </div>
             </section>
+
+            {/* Find Us on Map */}
+            <section className="py-20 bg-[#FFF8F0]">
+                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                    <motion.div
+                        initial={{ opacity: 0, y: 40 }}
+                        whileInView={{ opacity: 1, y: 0 }}
+                        viewport={{ once: true }}
+                        transition={{ duration: 0.8 }}
+                        className="text-center mb-12"
+                    >
+                        <span className="text-[#D97706] font-medium text-sm tracking-widest uppercase">
+                            Visit Us
+                        </span>
+                        <h2 className="font-heading text-3xl sm:text-4xl font-bold text-[#1F2937] mt-4">
+                            Find Us on Map
+                        </h2>
+                    </motion.div>
+
+                    <motion.div
+                        initial={{ opacity: 0, y: 30 }}
+                        whileInView={{ opacity: 1, y: 0 }}
+                        viewport={{ once: true }}
+                        transition={{ delay: 0.2, duration: 0.8 }}
+                        className="relative w-full rounded-2xl overflow-hidden shadow-2xl"
+                    >
+                        <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
+                            <iframe
+                                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d52906.80378217739!2d74.8323603!3d34.0265463!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38e18b005610991d%3A0xc19d7f4498f5a8b!2sAl%20Noor%20Kesar!5e0!3m2!1sen!2sin!4v1769002785681!5m2!1sen!2sin"
+                                className="absolute top-0 left-0 w-full h-full border-0"
+                                allowFullScreen={true}
+                                loading="lazy"
+                                referrerPolicy="no-referrer-when-downgrade"
+                                title="Al Noor Kesar Location"
+                            />
+                        </div>
+                    </motion.div>
+                </div>
+            </section>
         </div>
     );
 }

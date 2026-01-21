@@ -232,14 +232,14 @@ ${formData.message}`;
                                 className="block aspect-video rounded-xl overflow-hidden bg-[#FEF3E2] relative group cursor-pointer"
                             >
                                 <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.496189682675!2d74.93168287551205!3d34.13072817314982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38e1cd36fb020c63%3A0x58ee98e95587fe15!2sAL-NOOR%20KESAR!5e0!3m2!1sen!2sin!4v1736686886000!5m2!1sen!2sin"
+                                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d52906.80378217739!2d74.8323603!3d34.0265463!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38e18b005610991d%3A0xc19d7f4498f5a8b!2sAl%20Noor%20Kesar!5e0!3m2!1sen!2sin!4v1769002785681!5m2!1sen!2sin"
                                     width="100%"
                                     height="100%"
                                     style={{ border: 0, pointerEvents: 'none' }}
                                     allowFullScreen
                                     loading="lazy"
                                     referrerPolicy="no-referrer-when-downgrade"
-                                    title="Al-Noor Kesar Location"
+                                    title="Al Noor Kesar Location"
                                 />
                                 <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-all flex items-center justify-center">
                                     <span className="opacity-0 group-hover:opacity-100 bg-white px-4 py-2 rounded-lg font-semibold text-[#D97706] transition-all">
